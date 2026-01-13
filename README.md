@@ -1,2 +1,2 @@
-# linux-servers
+# Linux-servers
 Homework reports for Linux course taught by Tero Karvinen
